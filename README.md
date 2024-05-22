@@ -59,7 +59,7 @@ Changelog:
 - The size of website is now smaller.
 - Changing  .html files into .php files.
 
-How to run version 2.0 (on XAMPP example):
+How to run version 3.0 (on XAMPP example):
 1. Download .zip catalogue with version V 2.0.
 2. Extract catalogue from .zip catalogue.
 3. You should find catalogue call: V3.0.
