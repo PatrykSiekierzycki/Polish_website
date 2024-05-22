@@ -3,8 +3,10 @@ Website about tourist attractions in Poland
 
 Author: Patryk Siekierzycki
 
-Version 1:
 It is a website about tourist attraction in Poland.
+
+Version 1:
+
 The website contain:
 - dropdown menu
 - posibility to send email to author
